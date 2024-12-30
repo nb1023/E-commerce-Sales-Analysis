@@ -1,4 +1,4 @@
-E-Commerce Sales Analysis Project
+## E-Commerce Sales Analysis Project
 
 This project analyzes an e-commerce dataset to extract meaningful insights about sales, profit, and customer segments. Below are the questions analyzed and their respective outcomes:
 
@@ -46,7 +46,8 @@ Category: The highest profit was in the Technology category, and the lowest prof
 
 Sub-Category: The highest profit was in Copiers, and the lowest profit was in Tables.
 
-![image](https://github.com/user-attachments/assets/5165e64c-1757-49d1-b9c1-2e1d63209d5f)
+![image](https://github.com/user-attachments/assets/370ada03-ce3f-4d88-94b5-1a05a50cb308)
+
 ![image](https://github.com/user-attachments/assets/6090879d-ce48-49be-8310-fb0d304342a0)
 
 
